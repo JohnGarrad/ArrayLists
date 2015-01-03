@@ -6,7 +6,7 @@ public class ArrayLists : MonoBehaviour
 	public GameObject SpecificObject;
 	public GameObject[] AllGameObjects;
 	public int[] messyInts = {12,14,6,1,0,123,92,8};
-	// Use this for initialization
+	// Use this for initialization +++++++afdasd test text
 	void Start()
 	{
 		//creates an array of an undetermined size and type
